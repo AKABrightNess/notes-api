@@ -1,13 +1,13 @@
 {
   "name": "notesapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple REST API for managing notes.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "devStart": "nodemon index.js"
+    "devStart": "nodemon index.js",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "BrightNess",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0"
